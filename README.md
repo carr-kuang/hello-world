@@ -1,4 +1,4 @@
 # hello-world
 this is my fris carr
 这是一次实验信息
-这是测试的时间
+希望这是一次有趣的实验
