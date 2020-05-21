@@ -1,3 +1,4 @@
 # hello-world
-this is my fris ku
-这是一次实验
+this is my fris carr
+这是一次实验信息
+这是测试的时间
